@@ -1,0 +1,19 @@
+# @three-ws/agent-vitals
+
+> Capability attestation for autonomous agents. Not "is it up" but "can it act": model an agent's preconditions as a causal graph, get back the root blocker and the command that fixes it.
+
+@three-ws/agent-vitals is a JavaScript library from three.ws. Install: `npm install @three-ws/agent-vitals`.
+
+## Docs
+
+- [README](https://github.com/nirholas/agent-vitals/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/agent-vitals/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/agent-vitals/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/agent-vitals/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/agent-vitals)
+- [npm](https://www.npmjs.com/package/@three-ws/agent-vitals)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/agent-vitals/issues)

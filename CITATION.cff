@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/agent-vitals"
+abstract: "Capability attestation for autonomous agents. Not 'is it up' but 'can it act': model an agent's preconditions as a causal graph, get back the root blocker and the command that fixes it."
+version: 0.1.0
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/agent-vitals"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
